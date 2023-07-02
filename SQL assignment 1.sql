@@ -23,7 +23,6 @@ create table Customer (
  Customer_name varchar(20),
  Customer_address varchar(200),
  age int,
- Price int,
  loyalty_status varchar(10)
  );
  
